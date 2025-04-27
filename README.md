@@ -52,4 +52,4 @@ Recommendations
 
 Power BI Dashboard
 
-https://app.powerbi.com/groups/me/reports/4ee9dad2-5e33-4ddd-8111-a475c04b94cb/48d1e87935b2800c513c?experience=power-bi
+(https://app.powerbi.com/view?r=eyJrIjoiYzFlMWE4YmItYmVlNi00ZTFmLWEyNWYtNjVmZTNjMzczNzMwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
